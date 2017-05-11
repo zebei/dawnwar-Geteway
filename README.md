@@ -1,5 +1,7 @@
 # dawnwar-Geteway
 drawnwar by zebei
+api路由制定请求的转发 也可以控制过滤  例如：过滤无token请求
+
 
 自定义过滤器的实现，需要继承ZuulFilter，需要重写实现下面四个方法：
 
